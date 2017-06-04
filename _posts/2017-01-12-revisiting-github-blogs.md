@@ -1,12 +1,12 @@
 ---
-title: revisiting github blogs
+title: Pyhton
 layout: post
 author: theo.mortensen
 permalink: /revisiting-github-blogs/
 source-id: 1y4uuVcDwr4IFhxmCOBPkb2Em6HZwst6NkKd6V8a9UUY
 published: true
 ---
-WEEK 1
+Week 1 
 
-Today in our IT lesson we looked at our githubs again. We went back through basics like changing our avatar. We also looked at our description and updated our one from jekyll to jekyll-now. This updated in and we deleted all our old posts. We went through things that we did last year. So basically this was a recap lesson.
+We looked at codecademy. A website which let you learn all kinds of codes. We decided to look at python as most websites run on python. It is very tricky but after you read through it  you get to understand.
 
